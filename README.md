@@ -1,4 +1,4 @@
-Copyright (C) 2018 The LineageOS Project
+Copyright (C) 2018 The mokeeOS Project
 
 Device configuration for Xiaomi Mi 8 SE
 =========================================
